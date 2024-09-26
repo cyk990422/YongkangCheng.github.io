@@ -1,20 +1,42 @@
-## 📝 Selected Publications 
-- [ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model](https://) \
-  ***Gaoge Han***, Mingjiang Liang, Jinglei Tang,yongkang cheng, Wei Liu, Shaoli Huang \
-  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025, appear soon)**
-- [Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio](https://) \
-  Yongkang Cheng, Mingjiang Liang, Shaoli Huang, ***Gaoge Han***, Jifeng Ning, Wei Liu \
-  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025, appear soon)**
-- [SIAM: A Parameter-free, Spatial Intersection Attention Module](https://doi.org/10.1016/j.patcog.2024.110509) \
-  ***Gaoge Han***, Shaoli Huang, Fang Zhao, Jinglei Tang \
-  Pattern Recognition **(PR)**
- - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
-  Yongkang Cheng, Mingjiang liang, Shaoli Huang, ***Gaoge Han***, Wei Liu, Jifeng Ning \
-  IEEE International Conference on Multimedia & Expo **(ICME 2024, appear soon)**
-- [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
-  ***Gaoge Han***, Shaoli Huang, Mingming Gong, Jinglei Tang \
-  AAAI Conference on Artificial Intelligence **(AAAI 2024)**
+## 📝 Selected Publications (First-author)
+**Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio**
+**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025, appear soon)
+                      
+**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**
+**Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025, appear soon)
 
+**ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance**
+**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Wei Liu, Jifeng Ning
+IEEE International Conference on Multimedia & Expo (ICME 2024, appear soon)
+
+**ReBaR: Reference-Based Reasoning for Robust Human Pose and Shape Estimation from Monocular Images**
+**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Jifeng Ning, Wei Liu
+arXiv:2303.11675
+
+## 📝 Selected Publications (Co-author)
+**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**
+Gaoge Han, Mingjiang Liang, Jinglei Tang,**Yongkang Cheng**, Wei Liu, Shaoli Huang
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025, appear soon)
+
+**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**
+Zhengdi Yu, Shaoli Huang, **Yongkang Cheng**, Tolga Birdal
+European Conference on Computer Vision 2024 (ECCV 2024, appear soon)
+
+**Freetalker: Controllable speech and text-driven gesture generation based on diffusion models for enhanced speaker naturalness**
+Sicheng Yang, Zunnan Xu, Haiwei Xue, **Yongkang Cheng**, Shaoli Huang, Mingming Gong, Zhiyong Wu
+2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
+
+**Bidirectional Interaction of CNN and Transformer Feature for Visual Tracking**
+Baozhen Sun, Zhenhua Wang, Shilei Wang, **Yongkang Cheng**, Jifeng Ning
+IEEE Transactions on Circuits and Systems for Video Technology 2023 (TCSVT 2023)
+
+**Detecting and counting method for small-sized and occluded rice panicles based on in-field images**
+Haiyan Jiang*, Can xu*, Yao chen, **Yongkang Cheng**
+Transactions of the Chinese Society for Agricultural Machinery 2020 (TCSAM2020)
+
+Transactions of the Chinese Society for Agricultural Machinery 2020 (TCSAM2020)
 <!--
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
