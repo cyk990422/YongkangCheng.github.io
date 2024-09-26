@@ -1,8 +1,11 @@
 
 
 ## 🎖 Honors and Awards
-- *2024.6* Northwest A&F University Outstanding Graduate Dissertation (8/127).
-- *2024.5* Northwest A&F University Outstanding Graduate (1/127).
+- **[May. 2021]** Nanjing Agraiculture University Outstanding Graduate
+- **[Dec. 2020]** National Undergraduate Innovation Project  (10000 RMB)
+- **[Aug. 2019]** 2019 National University Artificial Intelligence Competition Champion  (12000 RMB)
+- **[Apr. 2019]** Second-class Scholarship of Nanjing Agricultural University
+- **[Feb. 2019]** Second Prize in the Asia Region of ASC 2018
 
 <!--
 
