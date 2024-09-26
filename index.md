@@ -28,5 +28,6 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
+<center>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iuSJ1VKqKr8as2njQGszJOuhLq_EQuzo7ngDdC_UVt4"></script>
+</center>
