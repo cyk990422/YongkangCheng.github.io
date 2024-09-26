@@ -1,14 +1,10 @@
 ## 📝 Selected Publications (First-author)
 **Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio**
-
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
-
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025, appear soon)
                       
 **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**
-
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
-
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025, appear soon)
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance**
