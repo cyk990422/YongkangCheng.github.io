@@ -29,4 +29,4 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 
 {% include_relative _includes/services.md %}
 
-<a href='https://clustrmaps.com/site/1c02c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=APzgcgBGXNnvSP1voM9AkukFf0rtf1oisGno0_jNWpo&co=54b4f7'/></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iuSJ1VKqKr8as2njQGszJOuhLq_EQuzo7ngDdC_UVt4"></script>
