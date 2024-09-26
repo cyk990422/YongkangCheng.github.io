@@ -50,7 +50,7 @@ IEEE Transactions on Circuits and Systems for Video Technology 2023 (TCSVT 2023)
 
 **Detecting and counting method for small-sized and occluded rice panicles based on in-field images**
 
-Haiyan Jiang*, Can xu*, Yao chen, **Yongkang Cheng**
+Haiyan Jiang*, Can Xu*, Yao Chen, **Yongkang Cheng**
 
 Transactions of the Chinese Society for Agricultural Machinery 2020 (TCSAM2020)
 
