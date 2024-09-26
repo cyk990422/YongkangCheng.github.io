@@ -4,26 +4,25 @@ layout: homepage
 
 ## 🤓About Me
 
- I am currently a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). I just graduated from  the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/), China as an outstanding graduate in Jun. 2024 and obtained the Master’s  degree. 
+My name is Yongkang Cheng, and I am currently a third-year master's student at Northwest A&F University. At the same time, I serve as an intern at [Tencent AILab](https://ai.tencent.com/) Digital Human Center, supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). My research interests lie in 3D action generation, virtual human algorithms, and other computer vision directions. Prior to this, I obtained my bachelor's degree from Nanjing Agricultural University in 2021, where my research focus was on artificial intelligence in agriculture.
 
- My research topic is 3D vision, with a particular focus on ***3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+"Fortunately, my passion lies in the essence of artificial intelligence itself, rather than the mere trappings it brings ! "           --- Yongkang
 
- I am excited to apply for ***2025 PhD*** programs.
+## 🎉 Research Interests
+- **Computer Vision:** 3D human pose estimation, motion generation, objects tracking
+- **Machine Learning:** multimodel learning
+- I am very interested in multimoel video generation !!!
 
-<!--
- > "Explore the unknown and turn possibilities into realities."
--->
+## 👣 Research Experience
+- 2022.08 - Present: Research Intern, Tencent AI Lab.
 
 ## 🔥 News
-- *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
-- *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
-- *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
-- *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition.
-- *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
-- *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI Distinct 1 Top, CCF-B).
-- *2024.03* &nbsp; HuTuMotion is accepted by [VALSE 2024](https://valser.org/2024/#/) Poster, see you in chongqing.
-- *2024.03* &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
-- *2023.12* &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
+- **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round1 ).
+- **[Jul. 2024]** 1 papers is accepted to ECCV 2024.
+- **[Mar. 2024]** 1 papers is accepted to ICME 2024.
+- **[Dec. 2023]** 1 papers is accepted to ICASSP 2024.
+- **[Nov. 2023]** 1 papers is accepted to TCSVT 2023.
+- **[Aug. 2020]** 1 papers is accepted to TCSAM 2020.
 
 
 {% include_relative _includes/publications.md %}
