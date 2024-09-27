@@ -17,7 +17,7 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - 2022.08 - Present: Research Intern, Tencent AI Lab.
 
 ## 🔥 News
-- **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round1 ).
+- **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
 - **[Jul. 2024]** 1 papers is accepted to ECCV 2024.
 - **[Mar. 2024]** 1 papers is accepted to ICME 2024.
 - **[Dec. 2023]** 1 papers is accepted to ICASSP 2024.
