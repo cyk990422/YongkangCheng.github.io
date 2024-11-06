@@ -17,6 +17,7 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - 2022.08 - Present: Research Intern, Tencent AI Lab.
 
 ## 🔥 News
+- **[Nov. 2024]** 1 paper is accepted to 3DV 2025. 
 - **[Oct. 2024]** 1 paper is accepted to MM Asia 2024 (Oral). 
 - **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
 - **[Jul. 2024]** 1 paper is accepted to ECCV 2024.
@@ -27,8 +28,7 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 
 ## 💪 Activites
 -  1 paper is subbmitted to ICLR 2025.
--  1 paper is subbmitted to AAAI 2025.
--  1 paper is subbmitted to 3DV 2025.
+-  1 paper is subbmitted to AAAI 2025. (initial score: 7, 6, 6)
 -  2 papers are subbmitted to Pattern Recognation.
 
 {% include_relative _includes/publications.md %}
