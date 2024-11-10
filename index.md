@@ -21,8 +21,6 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
 - **[Jul. 2024]** 1 paper is accepted to ECCV 2024.
 - **[Mar. 2024]** 1 paper is accepted to ICME 2024.
-- **[Dec. 2023]** 1 paper is accepted to ICASSP 2024.
-- **[Nov. 2023]** 1 paper is accepted to TCSVT 2023.
 
 
 {% include_relative _includes/publications.md %}
