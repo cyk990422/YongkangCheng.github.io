@@ -1,13 +1,17 @@
 ## 📝 Selected Publications (First-author)
 
-**Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025 in Round 1)**
+**HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025)**
+
+**Yongkang Cheng**, Shaoli Huang.
+
+**Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025 Round 1)**
 
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
 
 
 
                       
-**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025 in Round 1)**
+**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025 Round 1)**
 
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
 
@@ -20,13 +24,6 @@
 
 
 
-
-**ReBaR: Reference-Based Reasoning for Robust Human Pose and Shape Estimation from Monocular Images**
-
-**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Jifeng Ning, Wei Liu
-
-arXiv:2303.11675
-
 ## 📝 Selected Publications (Co-author)
 
 **ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model (WACV 2025 Round1)**
@@ -34,34 +31,11 @@ arXiv:2303.11675
 Gaoge Han, Mingjiang Liang, Jinglei Tang,**Yongkang Cheng**, Wei Liu, Shaoli Huang
 
 
-
-
-
 **SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark (ECCV 2024)**
 
 Zhengdi Yu, Shaoli Huang, **Yongkang Cheng**, Tolga Birdal
 
 
-
-
-
-**Freetalker: Controllable speech and text-driven gesture generation based on diffusion models for enhanced speaker naturalness (ICASSP 2024)**
-
-Sicheng Yang, Zunnan Xu, Haiwei Xue, **Yongkang Cheng**, Shaoli Huang, Mingming Gong, Zhiyong Wu
-
-
-
-
-**Bidirectional Interaction of CNN and Transformer Feature for Visual Tracking (TCSVT 2023)**
-
-Baozhen Sun, Zhenhua Wang, Shilei Wang, **Yongkang Cheng**, Jifeng Ning
-
-
-
-
-**Detecting and counting method for small-sized and occluded rice panicles based on in-field images (TCSAM 2020)**
-
-Haiyan Jiang*, Can Xu*, Yao Chen, **Yongkang Cheng**
 
 
 <!--
