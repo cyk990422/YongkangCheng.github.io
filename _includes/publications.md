@@ -24,19 +24,6 @@
 
 
 
-## 📝 Selected Publications (Co-author)
-
-**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model (WACV 2025 Round1)**
-
-Gaoge Han, Mingjiang Liang, Jinglei Tang,**Yongkang Cheng**, Wei Liu, Shaoli Huang
-
-
-**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark (ECCV 2024)**
-
-Zhengdi Yu, Shaoli Huang, **Yongkang Cheng**, Tolga Birdal
-
-
-
 
 <!--
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
