@@ -13,8 +13,13 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - **Machine Learning:** multimodel learning
 - I am very interested in multimoel video generation !!!
 
+## 👣 Education Experience
+- 2017.09 - 2021.06: Nanjing Agriculture University (211).
+- 2021.09 - 2024.12: Northwest A&F University (985).
+- 2025.08 - ???: MBZUAI.
 ## 👣 Research Experience
-- 2022.08 - Present: Research Intern, Tencent AI Lab.
+- 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
+- 2025.2 - ???
 
 ## 🔥 News
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
