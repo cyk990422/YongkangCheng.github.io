@@ -12,7 +12,7 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - **Computer Vision:** 3D human pose estimation, motion generation, objects tracking
 - **Machine Learning:** multimodel learning
 - **Embodied Artificial Intelligence**
-- I am also very interested in multimoel video generation and looking forwart your email !!!
+- I am also very interested in multimoel video generation !!!
 
 ## 👣 Education Experience
 - 2017.09 - 2021.06: Nanjing Agriculture University (211).
@@ -20,12 +20,10 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - 2025.08 - ???: MBZUAI.
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
-- 2025.2 - ???: Scientist Researcher, ???.
 
 ## 🔥 News
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
 - **[Nov. 2024]** 1 paper is accepted to 3DV 2025.
-- **[Oct. 2024]** 1 paper is accepted to MM Asia 2025 (Oral). 
 - **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
 - **[Jul. 2024]** 1 paper is accepted to ECCV 2024.
 - **[Mar. 2024]** 1 paper is accepted to ICME 2024.
