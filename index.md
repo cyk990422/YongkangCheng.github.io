@@ -11,7 +11,8 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 ## 🎉 Research Interests
 - **Computer Vision:** 3D human pose estimation, motion generation, objects tracking
 - **Machine Learning:** multimodel learning
-- I am very interested in multimoel video generation !!!
+- **Embodied Artificial Intelligence**
+- I am also very interested in multimoel video generation and looking forwart your email !!!
 
 ## 👣 Education Experience
 - 2017.09 - 2021.06: Nanjing Agriculture University (211).
