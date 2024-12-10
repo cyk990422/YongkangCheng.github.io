@@ -19,11 +19,12 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - 2025.08 - ???: MBZUAI.
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
-- 2025.2 - ???
+- 2025.2 - ???: Scientist Researcher, ???.
 
 ## 🔥 News
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
-- **[Nov. 2024]** 1 paper is accepted to 3DV 2025. 
+- **[Nov. 2024]** 1 paper is accepted to 3DV 2025.
+- **[Oct. 2024]** 1 paper is accepted to MM Asia 2025 (Oral). 
 - **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
 - **[Jul. 2024]** 1 paper is accepted to ECCV 2024.
 - **[Mar. 2024]** 1 paper is accepted to ICME 2024.
