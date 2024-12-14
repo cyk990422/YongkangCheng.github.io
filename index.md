@@ -15,19 +15,25 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - I am also very interested in multimoel video generation !!!
 
 ## 👣 Education Experience
-- 2017.09 - 2021.06: Nanjing Agriculture University (211).
-- 2021.09 - 2024.12: Northwest A&F University (985).
-- 2025.08 - ???: MBZUAI.
+- 2017.09 - 2021.06: Nanjing Agriculture University (Bachelor 211).
+- 2021.09 - 2024.12: Northwest A&F University (Master 985).
+- 2025.08 - ???: MBZUAI (PHD).
+ 
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
 
 ## 🔥 News
+- **[2023 to 2024]**
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
 - **[Nov. 2024]** 1 paper is accepted to 3DV 2025.
 - **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
 - **[Jul. 2024]** 1 paper is accepted to ECCV 2024.
 - **[Mar. 2024]** 1 paper is accepted to ICME 2024.
 - **[Jan. 2024]** 1 paper is accepted to ICASSP 2024.
+- **[Before 2023]**
+- 1 paper is accepted to TCSVT.
+- 1 paper is accepted to MMAsia.
+- 1 paper is accepted to TCSAM.
 
 
 
