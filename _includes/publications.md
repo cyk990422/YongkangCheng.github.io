@@ -1,4 +1,4 @@
-## 📝 Selected Publications (First-author)
+## 📝 Selected Publications 
 
 **HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025)**
 
