@@ -31,9 +31,8 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
 - **[Mar. 2024]** 1 paper is accepted to ICME 2024.
 - **[Jan. 2024]** 1 paper is accepted to ICASSP 2024.
 - **[Before 2023]**
-- 1 paper is accepted to TCSVT.
-- 1 paper is accepted to MMAsia.
-- 1 paper is accepted to TCSAM.
+- TCSVT * 1, TCSAM * 1, MMAsia * 1.
+
 
 
 
