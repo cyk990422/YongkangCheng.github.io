@@ -1,5 +1,7 @@
 ## 📝 Selected Publications 
 
+**AAAI 2025**
+
 **HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025)**
 
 **Yongkang Cheng**, Shaoli Huang.
@@ -7,7 +9,6 @@
 **Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025 Round 1)**
 
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
-
 
 
                       
