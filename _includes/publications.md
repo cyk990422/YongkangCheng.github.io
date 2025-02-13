@@ -21,6 +21,9 @@
 
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
 
+**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark (ECCV 2024)**
+
+Zhengdi Yu, Shaoli Huang, **Yongkang Cheng**, Tolga Birdal
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance (ICME 2024)**
 
