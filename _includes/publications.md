@@ -13,11 +13,11 @@
 
 **Yongkang Cheng**, Shaoli Huang.
 
-**Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025 Round 1)**
+**Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025)**
 
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
           
-**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025 Round 1)**
+**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025)**
 
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
 
