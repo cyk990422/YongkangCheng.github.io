@@ -20,7 +20,8 @@ My name is Yongkang Cheng, and I am currently a third-year master's student at N
  
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
-
+- 2025.01 - 2025.07: Researcher, Embodied AI.
+- 
 ## 🔥 News
 - **[2023 to 2024]**
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
