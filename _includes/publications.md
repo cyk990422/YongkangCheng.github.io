@@ -1,19 +1,24 @@
 ## 📝 Selected Publications 
 
 **BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under review)**
+
 **Yongkang Cheng**, Shaoli Huang, Jifeng Ning, Ying Shan
 
 **DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech (AAAI 2025)**
+
 **Yongkang Cheng**, Shaoli Huang, Xuelin Chen, Jifeng Ning, Mingming Gong
 
 
 **HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025)**
+
 **Yongkang Cheng**, Shaoli Huang.
 
 **Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025 Round 1)**
+
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
           
 **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025 Round 1)**
+
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
 
 
