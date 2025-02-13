@@ -23,6 +23,7 @@
 
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance (ICME 2024)**
+
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Wei Liu, Jifeng Ning
 
 
