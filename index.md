@@ -4,7 +4,7 @@ layout: homepage
 
 ## 🤓About Me
 
-Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at MBZUAI, and my supervisor is Prof. [Mingming Gong](https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=zh-CN&oi=ao). I obtained my master's and bachelor's degrees from NWAFU and NJAU respectively. Currently, I'm a researcher at an artificial intelligence startup. Before this, I worked as a research intern at Tencent AILab, CV-Lab, and the Digital Human Research Center, supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). My research interests lie in 3D motion generation, Motion Capture, and Embodie AI. 
+Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at MBZUAI, and my supervisor is Prof. [Mingming Gong](https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=zh-CN&oi=ao). I obtained my master's and bachelor's degrees from NWAFU and NJAU respectively. Currently, I'm a researcher at an Embodied AI startup. Before this, I worked as a research intern at Tencent AILab, CV-Lab, and the Digital Human Research Center, supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). My research interests lie in 3D motion generation, Motion Capture, and Embodie AI. 
 
 "Fortunately, my passion lies in the essence of artificial intelligence itself, rather than the mere trappings it brings ! "           --- Yongkang
 
