@@ -4,7 +4,7 @@ layout: homepage
 
 ## 🤓About Me
 
-My name is Yongkang Cheng, and I am currently a third-year master's student at Northwest A&F University. At the same time, I serve as an intern at [Tencent AILab](https://ai.tencent.com/) Digital Human Center, supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). My research interests lie in 3D action generation, virtual human algorithms, and other computer vision directions. Prior to this, I obtained my bachelor's degree from Nanjing Agricultural University in 2021, where my research focus was on artificial intelligence in agriculture.
+Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at MBZUAI, and my supervisor is Prof. [Mingming Gong](https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=zh-CN&oi=ao). I obtained my master's and bachelor's degrees from NWAFU and NJAU respectively. Currently, I'm a researcher at an artificial intelligence startup. Before this, I worked as a research intern at Tencent AILab, CV-Lab, and the Digital Human Research Center, supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). My research interests lie in 3D motion generation, Motion Capture, and Embodie AI. 
 
 "Fortunately, my passion lies in the essence of artificial intelligence itself, rather than the mere trappings it brings ! "           --- Yongkang
 
