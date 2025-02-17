@@ -9,7 +9,7 @@
 **Yongkang Cheng**, Shaoli Huang, Xuelin Chen, Jifeng Ning, Mingming Gong
 
 
-**HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025)**
+**HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025 & China3DV2024 video pre)**
 
 **Yongkang Cheng**, Shaoli Huang.
 
