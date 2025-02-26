@@ -16,12 +16,13 @@ Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at
 ## 👣 Education Experience
 - 2017.09 - 2021.06: Nanjing Agriculture University (Bachelor 211).
 - 2021.09 - 2024.12: Northwest A&F University (Master 985).
+- 2025.08 - Future: PHD student, MBZUAI
 
  
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
 - 2025.01 - 2025.07: Researcher, Embodied AI.
-- 2025.08 - Future: PHD student, MBZUAI
+
 
 ## 🔥 News
 - **[2023 to 2024]**
