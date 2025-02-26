@@ -16,7 +16,7 @@ Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at
 ## 👣 Education Experience
 - 2017.09 - 2021.06: Nanjing Agriculture University (Bachelor 211).
 - 2021.09 - 2024.12: Northwest A&F University (Master 985).
-- 2025.08 - Future: PHD student, MBZUAI
+- 2025.08 - Future: MBZUAI (PHD student, CS Ranking TOP 10 in the world)
 
  
 ## 👣 Research Experience
