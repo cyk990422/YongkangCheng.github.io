@@ -21,6 +21,7 @@ Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
 - 2025.01 - 2025.07: Researcher, Embodied AI.
+- 2025.08 - Future: PHD student, MBZUAI
 
 ## 🔥 News
 - **[2023 to 2024]**
