@@ -1,36 +1,40 @@
-## 📝 Selected Publications 
-**Kernel-aware Dynamic Convolution for Dense Prediction (Under review)**
+## 📝 Selected Publications (* indicates co-authors. † indicates the corresponding author/project leader.)
 
-Gaoge Han, Mingjiang Liang, **Yongkang Cheng**, Jinglei Tang, Wei Liu, Shaoli Huang
+**Accurate Two-Hand Reconstruction by Leveraging Vision Foundation Model and Motion Diffusion Priors**
+
+Gaoge Han, **Yongkang Cheng**, Shaoli Huang†
 
 **BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under review)**
 
-**Yongkang Cheng**, Shaoli Huang, Jifeng Ning, Ying Shan
-
-**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech (AAAI 2025)**
-
-**Yongkang Cheng**, Shaoli Huang, Xuelin Chen, Jifeng Ning, Mingming Gong
-
+**Yongkang Cheng**, Shaoli Huang†, Jifeng Ning†, Ying Shan
 
 **HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025 & China3DV2024 video pre)**
 
-**Yongkang Cheng**, Shaoli Huang.
+**Yongkang Cheng**, Shaoli Huang†
+
+**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech (AAAI 2025)**
+
+**Yongkang Cheng**, Shaoli Huang†, Xuelin Chen, Jifeng Ning, Mingming Gong
+
+**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model (WACV 2025)** 
+
+Gaoge Han, Mingjiang Liang, Jinglei Tang†, **Yongkang Cheng**, Wei Liu, Shaoli Huang†
 
 **Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025)**
 
-**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu.
+**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang†, Gaoge Han, Jifeng Ning, Wei Liu.
           
 **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025)**
 
-**Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang, Wei Liu
+**Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang†, Wei Liu
 
 **SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark (ECCV 2024)**
 
-Zhengdi Yu, Shaoli Huang, **Yongkang Cheng**, Tolga Birdal
+Zhengdi Yu, Shaoli Huang†, **Yongkang Cheng**, Tolga Birdal
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance (ICME 2024)**
 
-**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang, Gaoge Han, Wei Liu, Jifeng Ning
+**Yongkang Cheng**, Mingjiang Liang, Shaoli Huang†, Gaoge Han, Wei Liu, Jifeng Ning†
 
 
 
