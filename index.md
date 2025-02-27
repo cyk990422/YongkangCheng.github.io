@@ -30,12 +30,13 @@ Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at
 - **[2023 to 2024]**
 - **[Nov. 2024]** 1 paper is accepted to 3DV 2025(CCF-C).
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025(CCF-A). 
-- **[Aug. 2024]** 3 papers are accepted to WACV 2025 ( Round 1 ).
+- **[Aug. 2024]** 3 papers are accepted to WACV 2025.
 - **[Jul. 2024]** 1 paper is accepted to ECCV 2024(CCF-B).
 - **[Mar. 2024]** 1 paper is accepted to ICME 2024(CCF-B).
 - **[Jan. 2024]** 1 paper is accepted to ICASSP 2024(CCF-B).
 - **[Before 2023]**
-- TCSVT(CCF-B)* 1, TCSAM(EI)* 1.
+- **[Dec. 2023]** 1 paper is accepted to TCSVT(CCF-B).
+- **[Feb. 2021]** 1 paper is accepted to TCSAM(EI).
 
 
 
