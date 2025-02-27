@@ -7,6 +7,12 @@
 - **[Apr. 2019]** Second-class Scholarship of Nanjing Agricultural University
 - **[Feb. 2019]** Second Prize in the Asia Region of ASC 2018
 
+## 👀 Services
+**Conference Reviewers**
+ICME 2024,2025; ICPR 2024; ACM MM 2024; WACV 2025; 
+
+**Journal reviewer**
+IJCV; TVCG; PR;
 <!--
 
 ## Services
