@@ -25,6 +25,8 @@ Hello, everyone. I'm Alexandra(Yongkang) Cheng. I'm an incoming Ph.D. student at
 
 
 ## 🔥 News
+- **[2025 to present]**
+- 3 papers are under review.
 - **[2023 to 2024]**
 - **[Nov. 2024]** 1 paper is accepted to 3DV 2025(CCF-C).
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025(CCF-A). 
