@@ -1,5 +1,6 @@
 ## 📝 Selected Publications 
 **Kernel-aware Dynamic Convolution for Dense Prediction (Under review)**
+
 Gaoge Han, Mingjiang Liang, **Yongkang Cheng**, Jinglei Tang, Wei Liu, Shaoli Huang
 
 **BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under review)**
