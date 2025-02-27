@@ -1,9 +1,5 @@
 ## 📝 Selected Publications (* indicates co-authors. † indicates the corresponding author/project leader.)
 
-**Accurate Two-Hand Reconstruction by Leveraging Vision Foundation Model and Motion Diffusion Priors**
-
-Gaoge Han, **Yongkang Cheng**, Shaoli Huang†
-
 **BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under review)**
 
 **Yongkang Cheng**, Shaoli Huang†, Jifeng Ning†, Ying Shan
