@@ -12,10 +12,6 @@
 
 **Yongkang Cheng**, Shaoli Huang†, Xuelin Chen, Jifeng Ning, Mingming Gong
 
-**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model (WACV 2025)** 
-
-Gaoge Han, Mingjiang Liang, Jinglei Tang†, **Yongkang Cheng**, Wei Liu, Shaoli Huang†
-
 **Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025)**
 
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang†, Gaoge Han, Jifeng Ning, Wei Liu.
