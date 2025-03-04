@@ -28,15 +28,15 @@ Hello, everyone. I'm Yongkang Cheng. I'm an incoming Ph.D. student at MBZUAI, an
 - **[2025 to present]**
 - 3 papers are under review.
 - **[2023 to 2024]**
-- **[Nov. 2024]** 1 paper is accepted to 3DV 2025(CCF-C).
-- **[Dec. 2024]** 1 paper is accepted to AAAI 2025(CCF-A). 
+- **[Nov. 2024]** 1 paper is accepted to 3DV 2025.
+- **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
 - **[Aug. 2024]** 3 papers are accepted to WACV 2025.
-- **[Jul. 2024]** 1 paper is accepted to ECCV 2024(CCF-B).
-- **[Mar. 2024]** 1 paper is accepted to ICME 2024(CCF-B).
-- **[Jan. 2024]** 1 paper is accepted to ICASSP 2024(CCF-B).
+- **[Jul. 2024]** 1 paper is accepted to ECCV 2024.
+- **[Mar. 2024]** 1 paper is accepted to ICME 2024.
+- **[Jan. 2024]** 1 paper is accepted to ICASSP 2024.
 - **[Before 2023]**
-- **[Dec. 2023]** 1 paper is accepted to TCSVT(CCF-B).
-- **[Feb. 2021]** 1 paper is accepted to TCSAM(EI).
+- **[Dec. 2023]** 1 paper is accepted to TCSVT.
+- **[Feb. 2021]** 1 paper is accepted to TCSAM.
 
 
 
