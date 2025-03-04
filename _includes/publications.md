@@ -1,5 +1,9 @@
 ## 📝 Selected Publications (* indicates co-authors. † indicates the corresponding author/project leader.)
 
+**Inter - Diffusion Generation Model of Speakers and Listeners for Effective Communication (Under review)**
+
+Jinhe Huang*, **Yongkang Cheng** *†(project leader), Minghang Yu, Gaoge Han, Jinwei Li, Xingjian Gu†
+
 **BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under review)**
 
 **Yongkang Cheng**, Shaoli Huang†, Jifeng Ning†, Ying Shan
