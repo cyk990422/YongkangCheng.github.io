@@ -9,7 +9,7 @@
 
 ## 👀 Services
 **Conference Reviewer**
-ICME 2024,2025; ICPR 2024; ACM MM 2024; WACV 2025; 
+ICME 2024,2025; ICPR 2024; ACM MM 2024; WACV 2025; ICCV 2025;
 
 **Journal Reviewer**
 IJCV; TVCG; PR;
