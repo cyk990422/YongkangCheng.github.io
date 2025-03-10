@@ -1,13 +1,5 @@
 ## 📝 Selected Publications (* indicates co-authors. † indicates the corresponding author/project leader.)
 
-**Inter - Diffusion Generation Model of Speakers and Listeners for Effective Communication (Under review)**
-
-Jinhe Huang*, **Yongkang Cheng** *†(project leader), Minghang Yu, Gaoge Han, Jinwei Li, Xingjian Gu†
-
-**BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under review)**
-
-**Yongkang Cheng**, Shaoli Huang†, Jifeng Ning†, Ying Shan
-
 **HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures (3DV 2025 & China3DV2024 video pre)**
 
 **Yongkang Cheng**, Shaoli Huang†
@@ -23,10 +15,6 @@ Jinhe Huang*, **Yongkang Cheng** *†(project leader), Minghang Yu, Gaoge Han, J
 **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025)**
 
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang†, Wei Liu
-
-**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark (ECCV 2024)**
-
-Zhengdi Yu, Shaoli Huang†, **Yongkang Cheng**, Tolga Birdal
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance (ICME 2024)**
 
