@@ -10,7 +10,7 @@
 
 **BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under Review)**
 
-[arxiv](https://arxiv.org/abs/2303.11675) [project](hhttps://semanticdh.github.io/BoPR/) [code](https://github.com/cyk990422/BoPR)
+[arxiv](https://arxiv.org/abs/2303.11675) [project](https://semanticdh.github.io/BoPR/) [code](https://github.com/cyk990422/BoPR)
 
 **Yongkang Cheng**, Shaoli Huang, Jifeng Ning, Ying Shan
 
