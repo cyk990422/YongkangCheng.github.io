@@ -22,6 +22,8 @@ Zhengdi Yu, Shaoli Huang†, **Yongkang Cheng**, Tolga Birdal1
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance (ICME 2024)**
 
+[arxiv](https://arxiv.org/abs/2410.09396) [paper](https://www.computer.org/csdl/proceedings-article/icme/2024/10687922/20F0zy3t2py) [code](https://github.com/cyk990422/ExpGest)
+
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang†, Gaoge Han, Wei Liu, Jifeng Ning†
 
 
