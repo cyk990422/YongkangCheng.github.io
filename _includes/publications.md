@@ -8,11 +8,19 @@
 
 **Yongkang Cheng**, Shaoli Huang†, Xuelin Chen, Jifeng Ning, Mingming Gong
 
+**BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation (Under Review)**
+
+[arxiv](https://arxiv.org/abs/2303.11675) [project](hhttps://semanticdh.github.io/BoPR/) [code](https://github.com/cyk990422/BoPR)
+
+**Yongkang Cheng**, Shaoli Huang, Jifeng Ning, Ying Shan
+
 **Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio (WACV 2025)**
 
 **Yongkang Cheng**, Mingjiang Liang, Shaoli Huang†, Gaoge Han, Jifeng Ning, Wei Liu.
           
 **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior (WACV 2025)**
+
+[code](https://github.com/cyk990422/BoPR)
 
 **Yongkang Cheng** *, Mingjiang Liang *, Hualin Liang, Shaoli Huang†, Wei Liu
 
