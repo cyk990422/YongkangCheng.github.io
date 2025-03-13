@@ -26,6 +26,8 @@
 
 **SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark (ECCV 2024)**
 
+[arxiv](https://arxiv.org/abs/2310.20436) [paper](https://eccv.ecva.net/virtual/2024/poster/350) [code](https://github.com/ZhengdiYu/SignAvatars) [project](https://signavatars.github.io/)
+
 Zhengdi Yu, Shaoli Huang†, **Yongkang Cheng**, Tolga Birdal1
 
 **ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance (ICME 2024)**
