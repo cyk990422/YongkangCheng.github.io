@@ -26,7 +26,7 @@ Hello, everyone. I'm Yongkang Cheng. I'm an incoming Ph.D. student at MBZUAI, an
 
 ## 🔥 News
 - **[2025 to present]**
-- 3 papers are under review.
+- **[Apr. 2025]** 1 paper is accepted to ICMR 2025.
 - **[2023 to 2024]**
 - **[Nov. 2024]** 1 paper is accepted to 3DV 2025.
 - **[Dec. 2024]** 1 paper is accepted to AAAI 2025. 
