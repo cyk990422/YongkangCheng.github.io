@@ -21,7 +21,7 @@ Hello, everyone. I'm Yongkang Cheng. I'm an incoming Ph.D. student at MBZUAI, an
  
 ## 👣 Research Experience
 - 2022.08 - 2024.12: Research Intern, Tencent AI Lab.
-- 2025.01 - 2025.07: Researcher, Embodied AI.
+- 2025.01 - 2025.07: Research Scientist, Astribot.
 
 
 ## 🔥 News
