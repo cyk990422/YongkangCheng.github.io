@@ -26,7 +26,7 @@ Hello everyone. I'm Cheng Yongkang, I will be a PhD student at Mohamed bin Zayed
 
 ## 🔥 News
 - **[2025 to present]**
-- **[May. 2025]** 1 paper is accepted to Pattern Recognition.
+- **[May. 2025]** 2 papers are accepted to Pattern Recognition.
 - **[Apr. 2025]** 1 paper is accepted to ICMR 2025.
 - **[2023 to 2024]**
 - **[Nov. 2024]** 1 paper is accepted to 3DV 2025.
